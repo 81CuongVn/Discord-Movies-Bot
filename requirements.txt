@@ -1,4 +1,4 @@
 #pip install -r requirements.txt
 aiodns==1.2.0
-aiohttp==1.0.5
+aiohttp==3.7.4
 discord.py==0.16.12
